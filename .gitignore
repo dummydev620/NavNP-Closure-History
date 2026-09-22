@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Test/diagnostic files (keep local only)
+test_feed.py
+test_complete.py
+test_dor.py
+test_notification.py
+preview_status.py
+extract_calendar.py
+
+# Runtime state (closure tracking)
+# NOTE: dor_closure_state.json is intentionally tracked so the GitHub Actions
+# workflow can commit it back between scheduled runs (state persistence).
+last_update.txt
