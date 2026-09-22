@@ -1,0 +1,69 @@
+name: DOR Road Closure Update
+# version 1.0.4
+on:
+  schedule:
+# --- NIGHT SCHEDULE (Every 2 hours NPT: 10 PM - 6 AM) ---
+    # Runs at 16:15, 18:15, 20:15, 22:15 UTC
+    - cron: '15 16,18,20,22 * * *'
+
+    # --- DAY SCHEDULE (Every 45 mins NPT: 6 AM - 10 PM) ---
+    # Runs at :15 and :00 past hours between 00:15 UTC and 16:15 UTC
+    # Block 1: Starts the cycle on the 15s (00:15, 01:00, 01:45, 02:30, 03:15...)
+    - cron: '15 0,3,6,9,12,15 * * *'
+    - cron: '0 1,4,7,10,13,16 * * *'
+    - cron: '45 1,4,7,10,13 * * *'
+    - cron: '30 2,5,8,11,14 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: dor-closure-update
+  cancel-in-progress: false
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pytz
+
+      - name: Run DOR Closure Script
+        env:
+          DISCORD_WEBHOOK_URL_KID4RM90S: ${{ secrets.DISCORD_WEBHOOK_URL_KID4RM90S }}
+          DISCORD_WEBHOOK_URL_WAZENEPAL: ${{ secrets.DISCORD_WEBHOOK_URL_WAZENEPAL }}
+        run: |
+          python navigate_dor_feed.py
+          if [ $? -ne 0 ]; then
+            echo "Script failed with exit code $?"
+            exit 1
+          fi
+
+      - name: Commit state file if updated
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git add dor_closure_state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update dor_closure_state.json [skip ci]"
+
+            # Sync with latest remote to prevent non-fast-forward rejection
+            git fetch origin master
+            git rebase origin/master
+
+            git push origin HEAD:master
+            echo "State file committed and pushed."
+          else
+            echo "No change — state file already up to date."
+          fi
