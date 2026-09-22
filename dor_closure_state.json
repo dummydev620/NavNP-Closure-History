@@ -1,4 +1,25 @@
 {
+  "898": {
+    "id": "898",
+    "road_name": "Naubise-Mugling-Pokhara (Prithvi Rajmarg)",
+    "closure_type": "OPEN",
+    "closure_reason": "Landslide",
+    "efforts_being_made": "Deployed excavator and other equipment as required",
+    "remarks": "landslide on cut slope",
+    "district": "Chitawan",
+    "location": "Chainage 81+600, near Mugling",
+    "road_refno": "NH17",
+    "link_code": "NH17-004",
+    "division": "Bharatpur",
+    "repair_eta": "40 minutes",
+    "actual_repair_time": "30 minutes",
+    "date_roadblock_start": "2026-09-22 17:30:00",
+    "date_roadblock_end_estimated": "2026-09-22 18:10:00",
+    "date_roadblock_end": "2026-09-22 18:00:00",
+    "latitude": "27.8582",
+    "longitude": "84.5679",
+    "images": []
+  },
   "897": {
     "id": "897",
     "road_name": "Naubise-Mugling-Pokhara (Prithvi Rajmarg)",
