@@ -1,4 +1,25 @@
 {
+  "899": {
+    "id": "899",
+    "road_name": "Naubise-Mugling-Pokhara (Prithvi Rajmarg)",
+    "closure_type": "CLOSED",
+    "closure_reason": "Landslide",
+    "efforts_being_made": "Machine have been already mobilized",
+    "remarks": "Machine have been already mobilized",
+    "district": "Dhading",
+    "location": "Jarekhet",
+    "road_refno": "NH17",
+    "link_code": "NH17-002",
+    "division": "Nuwakot",
+    "repair_eta": "2 hours",
+    "actual_repair_time": "3 hours",
+    "date_roadblock_start": "2026-09-24 18:30:00",
+    "date_roadblock_end_estimated": "2026-09-24 20:33:00",
+    "date_roadblock_end": "2026-09-24 21:37:00",
+    "latitude": "27.7686",
+    "longitude": "84.9408",
+    "images": []
+  },
   "898": {
     "id": "898",
     "road_name": "Naubise-Mugling-Pokhara (Prithvi Rajmarg)",
