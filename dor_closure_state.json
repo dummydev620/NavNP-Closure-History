@@ -68,20 +68,23 @@
     "closure_type": "CLOSED",
     "closure_reason": "Landslide",
     "efforts_being_made": "Loader & Excavator Mobilized",
-    "remarks": "",
+    "remarks": "Sadak Vaasiyeko ",
     "district": "Solukhumbu",
-    "location": "Salme Pahiro",
+    "location": "Near Solu Khola ",
     "road_refno": "NH20",
     "link_code": "NH20-008",
     "division": "Harkhapur",
-    "repair_eta": "9 hours",
+    "repair_eta": "1 days",
     "actual_repair_time": null,
-    "date_roadblock_start": "2026-09-25 10:40:00",
-    "date_roadblock_end_estimated": "2026-09-25 20:30:00",
+    "date_roadblock_start": "2026-09-25 14:00:00",
+    "date_roadblock_end_estimated": "2026-09-26 16:30:00",
     "date_roadblock_end": null,
     "latitude": "27.4443",
     "longitude": "86.5746",
-    "images": []
+    "images": [
+      "https://navigate.dor.gov.np/api/uploads/images/404e3a7e6d3c4d50462ad41ade24d468.jpg",
+      "https://navigate.dor.gov.np/api/uploads/images/a2fb7fe099424dd5893ec33bdcb72a51.jpg"
+    ]
   },
   "908": {
     "id": "908",
