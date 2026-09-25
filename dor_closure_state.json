@@ -1,4 +1,25 @@
 {
+  "908": {
+    "id": "908",
+    "road_name": "Hetauda-Bagmati-Tikabhairav-Bhaisepati-Ekantakuna (Kanti Rajpath)",
+    "closure_type": "CLOSED",
+    "closure_reason": "Landslide",
+    "efforts_being_made": "",
+    "remarks": "",
+    "district": "Lalitpur",
+    "location": "Pandure(Chhapeli-62+000), Devisandh (Tarkuche-64+000) & Birkhedhara",
+    "road_refno": "NH37",
+    "link_code": "NH37-003",
+    "division": "Lalitpur",
+    "repair_eta": "1 days",
+    "actual_repair_time": null,
+    "date_roadblock_start": "2026-09-25 06:00:00",
+    "date_roadblock_end_estimated": "2026-09-26 07:00:00",
+    "date_roadblock_end": null,
+    "latitude": "27.4045",
+    "longitude": "85.0720",
+    "images": []
+  },
   "907": {
     "id": "907",
     "road_name": "Pushpalal Mid Hill Highway",
