@@ -1,4 +1,25 @@
 {
+  "912": {
+    "id": "912",
+    "road_name": "Belahiya-Bhairahawa-Butwal-Bartung-Ramdi-Syangja-Pokhara (Siddharth Rajmarg)",
+    "closure_type": "OPEN",
+    "closure_reason": "Rock fall",
+    "efforts_being_made": "",
+    "remarks": "",
+    "district": "Palpa",
+    "location": "from chidiya khola to dobhan",
+    "road_refno": "NH47",
+    "link_code": "NH47-005",
+    "division": "Palpa",
+    "repair_eta": "2 hours",
+    "actual_repair_time": "3 hours",
+    "date_roadblock_start": "2026-09-25 11:15:00",
+    "date_roadblock_end_estimated": "2026-09-25 14:00:00",
+    "date_roadblock_end": "2026-09-25 15:00:00",
+    "latitude": "27.7213",
+    "longitude": "83.4693",
+    "images": []
+  },
   "911": {
     "id": "911",
     "road_name": "Pushpalal Mid Hill Highway",
