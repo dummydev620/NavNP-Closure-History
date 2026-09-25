@@ -23,7 +23,7 @@
   "911": {
     "id": "911",
     "road_name": "Pushpalal Mid Hill Highway",
-    "closure_type": "PARTIAL_OPEN",
+    "closure_type": "OPEN",
     "closure_reason": "Landslide",
     "efforts_being_made": "One excavator and one loader is mobilized",
     "remarks": "kaathekhola rural municipality-6, bihu tapu, baglung, ",
@@ -33,10 +33,10 @@
     "link_code": "NH03-051",
     "division": "Baglung",
     "repair_eta": "7 hours",
-    "actual_repair_time": "8 hours",
+    "actual_repair_time": "10 hours",
     "date_roadblock_start": "2026-09-25 07:35:00",
     "date_roadblock_end_estimated": "2026-09-25 15:30:00",
-    "date_roadblock_end": "2026-09-25 15:45:00",
+    "date_roadblock_end": "2026-09-25 17:40:00",
     "latitude": "28.2649",
     "longitude": "83.5312",
     "images": []
