@@ -1,4 +1,25 @@
 {
+  "925": {
+    "id": "925",
+    "road_name": "Bartung Tansen Ridi Wamitaksar Kharwang",
+    "closure_type": "CLOSED",
+    "closure_reason": "Heavy Rainfall",
+    "efforts_being_made": "",
+    "remarks": "",
+    "district": "Gulmi",
+    "location": "Sisne Bhir",
+    "road_refno": "NH49",
+    "link_code": "NH49-001",
+    "division": "Palpa",
+    "repair_eta": "10 hours",
+    "actual_repair_time": null,
+    "date_roadblock_start": "2026-09-26 06:20:00",
+    "date_roadblock_end_estimated": "2026-09-26 16:20:00",
+    "date_roadblock_end": null,
+    "latitude": "28.0972",
+    "longitude": "83.3373",
+    "images": []
+  },
   "924": {
     "id": "924",
     "road_name": "Bhimad-Rampur-Mityal-Arung Khola",
