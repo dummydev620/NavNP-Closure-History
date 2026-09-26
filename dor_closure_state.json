@@ -1,4 +1,48 @@
 {
+  "914": {
+    "id": "914",
+    "road_name": "Pushpalal Mid Hill Highway",
+    "closure_type": "CLOSED",
+    "closure_reason": "Landslide",
+    "efforts_being_made": "The loader machine is in road clearance work.",
+    "remarks": "मध्य पहाडी राजमार्ग NH-03, चेनेज Ch-1213+500 चाइना बगर देखि सिस्नेखोला तर्फ भिरमा पहिरोले बाटो  बन्द भएको  जानकारी  गर्दछु।  Clearance को लागि अपेक्षित समय : करिब दुई घण्टा",
+    "district": "Rukum West",
+    "location": "मध्य पहाडी राजमार्ग NH-03, चेनेज Ch-1213+500 चाइना बगर देखि सिस्नेखोला तर्फ भिरमा पहिरोले बाटो  बन्द भएको  जानकारी  गर्दछु।  Clearance को लागि अपेक्षित समय : करिब दुई घण्टा",
+    "road_refno": "NH03",
+    "link_code": "NH03-061",
+    "division": "Chaurjahari",
+    "repair_eta": "3 hours",
+    "actual_repair_time": null,
+    "date_roadblock_start": "2026-09-26 05:00:00",
+    "date_roadblock_end_estimated": "2026-09-26 08:52:00",
+    "date_roadblock_end": null,
+    "latitude": "28.6917",
+    "longitude": "82.2736",
+    "images": [
+      "https://navigate.dor.gov.np/api/uploads/images/57d0282b7e6deceb6604159829fa5dcc.jpg"
+    ]
+  },
+  "913": {
+    "id": "913",
+    "road_name": "Pushpalal Mid Hill Highway",
+    "closure_type": "CLOSED",
+    "closure_reason": "Landslide",
+    "efforts_being_made": "The loader machine is in road clearance work.",
+    "remarks": "मध्य पहाडी राजमार्ग NH-03, चेनेज Ch-1213+500 चाइना बगर देखि सिस्नेखोला तर्फ भिरमा पहिरोले बाटो  बन्द भएको  जानकारी  गर्दछु।  Clearance को लागि अपेक्षित समय : करिब दुई घण्टा",
+    "district": "Rukum West",
+    "location": "मध्य पहाडी राजमार्ग NH-03, चेनेज Ch-1213+500 चाइना बगर देखि सिस्नेखोला तर्फ भिरमा पहिरोले बाटो  बन्द भएको  जानकारी  गर्दछु।  Clearance को लागि अपेक्षित समय : करिब दुई घण्टा",
+    "road_refno": "NH03",
+    "link_code": "NH03-061",
+    "division": "Chaurjahari",
+    "repair_eta": "3 hours",
+    "actual_repair_time": null,
+    "date_roadblock_start": "2026-09-26 05:00:00",
+    "date_roadblock_end_estimated": "2026-09-26 08:52:00",
+    "date_roadblock_end": null,
+    "latitude": "28.6917",
+    "longitude": "82.2736",
+    "images": []
+  },
   "912": {
     "id": "912",
     "road_name": "Belahiya-Bhairahawa-Butwal-Bartung-Ramdi-Syangja-Pokhara (Siddharth Rajmarg)",
