@@ -298,7 +298,7 @@
   "914": {
     "id": "914",
     "road_name": "Pushpalal Mid Hill Highway",
-    "closure_type": "CLOSED",
+    "closure_type": "PARTIAL_OPEN",
     "closure_reason": "Landslide",
     "efforts_being_made": "The loader machine is in road clearance work.",
     "remarks": "मध्य पहाडी राजमार्ग NH-03, चेनेज Ch-1213+500 चाइना बगर देखि सिस्नेखोला तर्फ भिरमा पहिरोले बाटो  बन्द भएको  जानकारी  गर्दछु।  Clearance को लागि अपेक्षित समय : करिब दुई घण्टा",
@@ -308,10 +308,10 @@
     "link_code": "NH03-061",
     "division": "Chaurjahari",
     "repair_eta": "3 hours",
-    "actual_repair_time": null,
+    "actual_repair_time": "4 hours",
     "date_roadblock_start": "2026-09-26 05:00:00",
     "date_roadblock_end_estimated": "2026-09-26 08:52:00",
-    "date_roadblock_end": null,
+    "date_roadblock_end": "2026-09-26 09:39:00",
     "latitude": "28.6917",
     "longitude": "82.2736",
     "images": [
@@ -321,7 +321,7 @@
   "913": {
     "id": "913",
     "road_name": "Pushpalal Mid Hill Highway",
-    "closure_type": "CLOSED",
+    "closure_type": "OPEN",
     "closure_reason": "Landslide",
     "efforts_being_made": "The loader machine is in road clearance work.",
     "remarks": "मध्य पहाडी राजमार्ग NH-03, चेनेज Ch-1213+500 चाइना बगर देखि सिस्नेखोला तर्फ भिरमा पहिरोले बाटो  बन्द भएको  जानकारी  गर्दछु।  Clearance को लागि अपेक्षित समय : करिब दुई घण्टा",
@@ -331,10 +331,10 @@
     "link_code": "NH03-061",
     "division": "Chaurjahari",
     "repair_eta": "3 hours",
-    "actual_repair_time": null,
+    "actual_repair_time": "14 hours",
     "date_roadblock_start": "2026-09-26 05:00:00",
     "date_roadblock_end_estimated": "2026-09-26 08:52:00",
-    "date_roadblock_end": null,
+    "date_roadblock_end": "2026-09-26 19:29:00",
     "latitude": "28.6917",
     "longitude": "82.2736",
     "images": []
