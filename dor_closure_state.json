@@ -1,4 +1,25 @@
 {
+  "915": {
+    "id": "915",
+    "road_name": "Jamunaha-Nepalgunj-Kohalpur-Surkhet-Khulalu-Hilsa (Karnali Rajmarg)",
+    "closure_type": "CLOSED",
+    "closure_reason": "Landslide",
+    "efforts_being_made": "Loader has been deployed",
+    "remarks": "",
+    "district": "Dailekh",
+    "location": "Gagane Khola",
+    "road_refno": "NH58",
+    "link_code": "NH58-014",
+    "division": "Surkhet",
+    "repair_eta": "9 hours",
+    "actual_repair_time": null,
+    "date_roadblock_start": "2026-09-26 08:00:00",
+    "date_roadblock_end_estimated": "2026-09-26 17:30:00",
+    "date_roadblock_end": null,
+    "latitude": "29.0862",
+    "longitude": "81.5053",
+    "images": []
+  },
   "914": {
     "id": "914",
     "road_name": "Pushpalal Mid Hill Highway",
