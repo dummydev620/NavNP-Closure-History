@@ -384,7 +384,7 @@
   "909": {
     "id": "909",
     "road_name": "Madar-Chauharwa, Mirchaiya-Katari-Ghurmi, Hilepani-Okhaldhunga-Salleri",
-    "closure_type": "CLOSED",
+    "closure_type": "PARTIAL_OPEN",
     "closure_reason": "Landslide",
     "efforts_being_made": "Loader & Excavator Mobilized",
     "remarks": "Sadak Vaasiyeko ",
@@ -394,10 +394,10 @@
     "link_code": "NH20-008",
     "division": "Harkhapur",
     "repair_eta": "1 days",
-    "actual_repair_time": null,
+    "actual_repair_time": "1 days",
     "date_roadblock_start": "2026-09-25 12:00:00",
     "date_roadblock_end_estimated": "2026-09-26 16:30:00",
-    "date_roadblock_end": null,
+    "date_roadblock_end": "2026-09-26 17:00:00",
     "latitude": "27.4443",
     "longitude": "86.5746",
     "images": [
