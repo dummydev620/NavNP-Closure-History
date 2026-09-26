@@ -1,4 +1,25 @@
 {
+  "928": {
+    "id": "928",
+    "road_name": "Pushpalal Mid Hill Highway",
+    "closure_type": "OPEN",
+    "closure_reason": "Landslide",
+    "efforts_being_made": "Equipment was ti,mely mobilized at site and Highway is clear for two way movement ",
+    "remarks": "Amargadhi-01,Dadeldhura",
+    "district": "Dadeldhura",
+    "location": "Amargadhi-01,Dadeldhura",
+    "road_refno": "NH03",
+    "link_code": "NH03-085",
+    "division": "Doti",
+    "repair_eta": "5 hours",
+    "actual_repair_time": "4 hours",
+    "date_roadblock_start": "2026-09-26 11:15:00",
+    "date_roadblock_end_estimated": "2026-09-26 16:36:00",
+    "date_roadblock_end": "2026-09-26 15:17:00",
+    "latitude": "29.2928",
+    "longitude": "80.6354",
+    "images": []
+  },
   "927": {
     "id": "927",
     "road_name": "Tansen-Ridi-Korla",
@@ -109,7 +130,7 @@
   "922": {
     "id": "922",
     "road_name": "Surkhet Tallo Dundeshwor-Saatkhamba-Dullu-Pipalkot-Khulalu-Manma-Jumla Sadak",
-    "closure_type": "CLOSED",
+    "closure_type": "OPEN",
     "closure_reason": "Landslide",
     "efforts_being_made": "Tyre Excavator With supporting staff",
     "remarks": "",
@@ -119,10 +140,10 @@
     "link_code": "NH61-004",
     "division": "Khalanga",
     "repair_eta": "3 hours",
-    "actual_repair_time": null,
+    "actual_repair_time": "2 hours",
     "date_roadblock_start": "2026-09-26 09:44:00",
     "date_roadblock_end_estimated": "2026-09-26 12:44:00",
-    "date_roadblock_end": null,
+    "date_roadblock_end": "2026-09-26 12:40:00",
     "latitude": "29.1643",
     "longitude": "81.8573",
     "images": []
