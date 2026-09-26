@@ -1,4 +1,25 @@
 {
+  "927": {
+    "id": "927",
+    "road_name": "Tansen-Ridi-Korla",
+    "closure_type": "PARTIAL_OPEN",
+    "closure_reason": "Landslide",
+    "efforts_being_made": "Equipment is standby",
+    "remarks": "Continuous heavy rainfall, road is partially closed, high chances of landslide again",
+    "district": "Baglung",
+    "location": "Balewa-Maldhunga Section, Ch:234+300, Dumka Phat, ",
+    "road_refno": "NH48",
+    "link_code": "NH48-006",
+    "division": "Baglung",
+    "repair_eta": "6 hours",
+    "actual_repair_time": "7 hours",
+    "date_roadblock_start": "2026-09-26 06:00:00",
+    "date_roadblock_end_estimated": "2026-09-26 12:30:00",
+    "date_roadblock_end": "2026-09-26 13:37:00",
+    "latitude": "28.2325",
+    "longitude": "83.6449",
+    "images": []
+  },
   "926": {
     "id": "926",
     "road_name": "Tansen-Ridi-Korla",
