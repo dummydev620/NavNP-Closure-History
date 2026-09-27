@@ -1,4 +1,30 @@
 {
+  "955": {
+    "id": "955",
+    "road_name": "Pushpalal Mid Hill Highway",
+    "closure_type": "CLOSED",
+    "closure_reason": "Highway washout by kaligandaki river",
+    "efforts_being_made": null,
+    "remarks": "",
+    "district": "Parbat",
+    "location": null,
+    "road_refno": "NH03",
+    "link_code": "NH03-048",
+    "division": "Pokhara",
+    "repair_eta": "3 days",
+    "actual_repair_time": null,
+    "date_roadblock_start": "2026-09-27 02:12:00",
+    "date_roadblock_end_estimated": "2026-09-30 06:00:00",
+    "date_roadblock_end": null,
+    "latitude": "28.2468",
+    "longitude": "83.6363",
+    "images": [
+      "https://navigate.dor.gov.np/api/uploads/images/730caf66d15be5b648d0b735a82f65eb.jpg",
+      "https://navigate.dor.gov.np/api/uploads/images/c70f29d9825bd1ddad4409bc9a704e13.jpg",
+      "https://navigate.dor.gov.np/api/uploads/images/54d85b82e8cd692f854c9e16e61b5c20.jpg",
+      "https://navigate.dor.gov.np/api/uploads/images/a91afefa66800ef68920ef2f34b6e49b.jpg"
+    ]
+  },
   "954": {
     "id": "954",
     "road_name": "Surkhet-Dailekh-Mahabulekh-Galje, Nagma-Gamgadhi-Nakchelagna",
