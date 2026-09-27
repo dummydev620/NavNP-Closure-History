@@ -238,7 +238,7 @@
   "943": {
     "id": "943",
     "road_name": "Belahiya-Bhairahawa-Butwal-Bartung-Ramdi-Syangja-Pokhara (Siddharth Rajmarg)",
-    "closure_type": "CLOSED",
+    "closure_type": "OPEN",
     "closure_reason": "Landslide",
     "efforts_being_made": "deploying loader",
     "remarks": "will be open up to 12 am",
@@ -248,10 +248,10 @@
     "link_code": "NH47-008",
     "division": "Palpa",
     "repair_eta": "1 hours",
-    "actual_repair_time": null,
+    "actual_repair_time": "11 hours",
     "date_roadblock_start": "2026-09-27 01:00:00",
     "date_roadblock_end_estimated": "2026-09-27 00:00:00",
-    "date_roadblock_end": null,
+    "date_roadblock_end": "2026-09-27 12:43:00",
     "latitude": "27.8675",
     "longitude": "83.6510",
     "images": []
@@ -371,7 +371,7 @@
     "efforts_being_made": "The machine was sent at site (One way Clear)",
     "remarks": "doti",
     "district": "Doti",
-    "location": "Kera bari ,doti(Chainage 72+800)",
+    "location": "Kera bari ,doti(Chainage 72+800),Madan Bhandari Highway",
     "road_refno": "NH09",
     "link_code": "NH09-040",
     "division": "Doti",
@@ -382,7 +382,9 @@
     "date_roadblock_end": "2026-09-27 08:50:00",
     "latitude": "29.0586",
     "longitude": "80.5884",
-    "images": []
+    "images": [
+      "https://navigate.dor.gov.np/api/uploads/images/32930ed3245bc67f7c345eb07f03ac84.jpg"
+    ]
   },
   "936": {
     "id": "936",
@@ -471,20 +473,20 @@
   "932": {
     "id": "932",
     "road_name": "Thori-Bharatpur-Mugling, Aanbukharieni-Gorkha-Ghyampesal, Aarughat-Sirdibas-Roila Bhanjyang",
-    "closure_type": "CLOSED",
+    "closure_type": "OPEN",
     "closure_reason": "Landslide",
     "efforts_being_made": "2 Loaders mobilzed for clearance.",
-    "remarks": "Road two way blocked due to landslide at Namsi Khola of Narayanghat Mugling Road.",
+    "remarks": "Road two way blocked due to landslide at Namsi Khola of Narayanghat Mugling Road. Cleared at 12:30 PM.",
     "district": "Chitawan",
     "location": "CH 32+200 Namsi Khola",
     "road_refno": "NH44",
     "link_code": "NH44-004",
     "division": "Bharatpur",
     "repair_eta": "2 hours",
-    "actual_repair_time": null,
+    "actual_repair_time": "5 hours",
     "date_roadblock_start": "2026-09-27 07:30:00",
     "date_roadblock_end_estimated": "2026-09-27 10:00:00",
-    "date_roadblock_end": null,
+    "date_roadblock_end": "2026-09-27 12:30:00",
     "latitude": "27.8308",
     "longitude": "84.5463",
     "images": []
@@ -560,7 +562,7 @@
     "efforts_being_made": "Equipment was ti,mely mobilized at site and Highway is clear for two way movement ",
     "remarks": "Amargadhi-01,Dadeldhura",
     "district": "Dadeldhura",
-    "location": "Amargadhi-01,Dadeldhura",
+    "location": "Amargadhi-01,Dadeldhura(Mahakali Highway",
     "road_refno": "NH03",
     "link_code": "NH03-085",
     "division": "Doti",
@@ -572,18 +574,8 @@
     "latitude": "29.2928",
     "longitude": "80.6354",
     "images": [
-      "https://navigate.dor.gov.np/api/uploads/images/fe52f732ef611c1eb867c6130b9cf30b.jpg",
       "https://navigate.dor.gov.np/api/uploads/images/d91175536d011d6e6f311a3ea11b4fa6.jpg",
-      "https://navigate.dor.gov.np/api/uploads/images/c30e2f8c22981077c9f000c39a8d7da5.jpg",
-      "https://navigate.dor.gov.np/api/uploads/images/911141e9c328d1ee906ce7b27088611b.jpg",
-      "https://navigate.dor.gov.np/api/uploads/images/1d3c7c7e2cdbfeda491e0f1642772139.jpg",
-      "https://navigate.dor.gov.np/api/uploads/images/1d7e95ba5a15c4680a5189304513d7ff.jpg",
-      "https://navigate.dor.gov.np/api/uploads/images/d9d3907c2d92c1a28bc7c01ba96730c6.jpg",
-      "https://navigate.dor.gov.np/api/uploads/images/44abbef72994f7d5b1a775240a43df55.jpg",
-      "https://navigate.dor.gov.np/api/uploads/images/3b0ff033e1186179fe64a81f13fdfd8f.jpg",
-      "https://navigate.dor.gov.np/api/uploads/images/283e985a1fb9b1f29468538a0e75bc2b.jpg",
-      "https://navigate.dor.gov.np/api/uploads/images/ab33a4239a809c6b714115ba423e9b7d.jpg",
-      "https://navigate.dor.gov.np/api/uploads/images/4612dfaf4bb468f4a12120dbc5d98b86.jpg"
+      "https://navigate.dor.gov.np/api/uploads/images/c30e2f8c22981077c9f000c39a8d7da5.jpg"
     ]
   },
   "927": {
