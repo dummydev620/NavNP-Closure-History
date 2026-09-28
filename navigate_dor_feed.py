@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 
 import requests
 
-# version 1.2.0
+# version 1.2.1
 # Monitors road closures from the Nepal DOR Navigate page
 # (https://navigate.dor.gov.np/app/road-closure-history) and posts status-driven
 # Discord embed notifications when closures are added, modified, or cleared.
@@ -224,6 +224,8 @@ def snapshot(record):
     """Extract the subset of fields we display/track into a stable dict."""
     return {
         "id": record.get("id"),
+        "date_created": record.get("date_created"),
+        "road_refno": record.get("road_refno"),
         "road_name": record.get("road_name"),
         "closure_type": (record.get("closure_type") or "").strip().upper(),
         "closure_reason": record.get("closure_reason"),
@@ -231,7 +233,6 @@ def snapshot(record):
         "remarks": record.get("remarks"),
         "district": record.get("district"),
         "location": record.get("location"),
-        "road_refno": record.get("road_refno"),
         "link_code": record.get("link_code"),
         "division": record.get("division"),
         "repair_eta": record.get("repair_eta"),
@@ -241,6 +242,13 @@ def snapshot(record):
         "date_roadblock_end": record.get("date_roadblock_end"),
         "latitude": record.get("latitude"),
         "longitude": record.get("longitude"),
+        "chainage": record.get("chainage"),
+        "end_chainage": record.get("end_chainage"),
+        "contact_person": record.get("contact_person"),
+        "created_by_user_id": record.get("created_by_user_id"),
+        "last_updated_by_user_id": record.get("last_updated_by_user_id"),
+        "created_by_user_name": record.get("created_by_user_name"),
+        "last_updated_by_user_name": record.get("last_updated_by_user_name"),
         "images": list(record.get("images") or []),
     }
 
