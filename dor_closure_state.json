@@ -1,4 +1,25 @@
 {
+  "962": {
+    "id": "962",
+    "road_name": "Belahiya-Bhairahawa-Butwal-Bartung-Ramdi-Syangja-Pokhara (Siddharth Rajmarg)",
+    "closure_type": "OPEN",
+    "closure_reason": "Landslide",
+    "efforts_being_made": "Mobilized loader to clear the debris",
+    "remarks": "",
+    "district": "Palpa",
+    "location": "Siddababa",
+    "road_refno": "NH47",
+    "link_code": "NH47-005",
+    "division": "Palpa",
+    "repair_eta": "3 hours",
+    "actual_repair_time": "4 hours",
+    "date_roadblock_start": "2026-09-28 10:20:00",
+    "date_roadblock_end_estimated": "2026-09-28 14:00:00",
+    "date_roadblock_end": "2026-09-28 14:30:00",
+    "latitude": "27.7295",
+    "longitude": "83.4693",
+    "images": []
+  },
   "961": {
     "id": "961",
     "road_name": "Thori-Bharatpur-Mugling, Aanbukharieni-Gorkha-Ghyampesal, Aarughat-Sirdibas-Roila Bhanjyang",
@@ -107,7 +128,7 @@
   "956": {
     "id": "956",
     "road_name": "Chinchu-Kudu-Jajarkot -Dunai-Dho-Tinje-Marim (Bheri Corridor)",
-    "closure_type": "CLOSED",
+    "closure_type": "OPEN",
     "closure_reason": "Landslide",
     "efforts_being_made": "",
     "remarks": "",
@@ -117,10 +138,10 @@
     "link_code": "NH57-007",
     "division": "Chaurjahari",
     "repair_eta": "1 days",
-    "actual_repair_time": null,
+    "actual_repair_time": "1 days",
     "date_roadblock_start": "2026-09-27 09:35:00",
     "date_roadblock_end_estimated": "2026-09-28 17:00:00",
-    "date_roadblock_end": null,
+    "date_roadblock_end": "2026-09-28 15:31:00",
     "latitude": "28.9895",
     "longitude": "82.6577",
     "images": []
