@@ -1,4 +1,25 @@
 {
+  "956": {
+    "id": "956",
+    "road_name": "Chinchu-Kudu-Jajarkot -Dunai-Dho-Tinje-Marim (Bheri Corridor)",
+    "closure_type": "CLOSED",
+    "closure_reason": "Landslide",
+    "efforts_being_made": "",
+    "remarks": "",
+    "district": "Dolpa",
+    "location": "Dule Bhir Near Khadang",
+    "road_refno": "NH57",
+    "link_code": "NH57-007",
+    "division": "Chaurjahari",
+    "repair_eta": "1 days",
+    "actual_repair_time": null,
+    "date_roadblock_start": "2026-09-27 09:35:00",
+    "date_roadblock_end_estimated": "2026-09-28 17:00:00",
+    "date_roadblock_end": null,
+    "latitude": "28.9895",
+    "longitude": "82.6577",
+    "images": []
+  },
   "955": {
     "id": "955",
     "road_name": "Pushpalal Mid Hill Highway",
