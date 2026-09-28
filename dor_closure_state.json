@@ -798,7 +798,7 @@
   "919": {
     "id": "919",
     "road_name": "Jamunaha-Nepalgunj-Kohalpur-Surkhet-Khulalu-Hilsa (Karnali Rajmarg)",
-    "closure_type": "CLOSED",
+    "closure_type": "PARTIAL_OPEN",
     "closure_reason": "Landslide",
     "efforts_being_made": "Department euipment depolyed, work starts after rain stops",
     "remarks": "Continuous rainfall and landslide",
