@@ -1,4 +1,25 @@
 {
+  "960": {
+    "id": "960",
+    "road_name": "Naubise-Mugling-Pokhara (Prithvi Rajmarg)",
+    "closure_type": "OPEN",
+    "closure_reason": "Landslide",
+    "efforts_being_made": "Deployed equipment (Loader and Backhoe)  in necessary quantity",
+    "remarks": "Rockfall",
+    "district": "Dhading",
+    "location": "Ch. 62+400, Panidhara",
+    "road_refno": "NH17",
+    "link_code": "NH17-003",
+    "division": "Nuwakot",
+    "repair_eta": "18 hours",
+    "actual_repair_time": "17 hours",
+    "date_roadblock_start": "2026-09-27 18:00:00",
+    "date_roadblock_end_estimated": "2026-09-28 12:00:00",
+    "date_roadblock_end": "2026-09-28 11:00:00",
+    "latitude": "27.8091",
+    "longitude": "84.6929",
+    "images": []
+  },
   "959": {
     "id": "959",
     "road_name": "Naubise-Mugling-Pokhara (Prithvi Rajmarg)",
@@ -413,23 +434,27 @@
   "940": {
     "id": "940",
     "road_name": "Bahundangi-Shantinagar-Dharan-Chatara-Ghaighat-Katari Sindhulimadi-Hetauda-Gaidakot-Rampur-Ramdi-Ridi-Balkot-Sandhikharka-Bijuwar-Sitalpati-Surkhet-Baddichaur-Sahajpur-Budar-Jogbudha-Rupal (Madan Bhandari Rajmarg)",
-    "closure_type": "PARTIAL_OPEN",
+    "closure_type": "OPEN",
     "closure_reason": "Landslide",
-    "efforts_being_made": "The machine was sent to the site",
+    "efforts_being_made": "The landslide was cleared and two way traffice movement  continues as usual",
     "remarks": "Dhara pani Doti",
     "district": "Doti",
     "location": "Dhara pani ,Doti(CH 75+500)",
     "road_refno": "NH09",
     "link_code": "NH09-040",
     "division": "Doti",
-    "repair_eta": "7 hours",
-    "actual_repair_time": "48 minutes",
+    "repair_eta": "11 hours",
+    "actual_repair_time": "12 hours",
     "date_roadblock_start": "2026-09-27 08:02:00",
-    "date_roadblock_end_estimated": "2026-09-27 00:44:00",
-    "date_roadblock_end": "2026-09-27 08:50:00",
+    "date_roadblock_end_estimated": "2026-09-27 19:44:00",
+    "date_roadblock_end": "2026-09-27 20:33:00",
     "latitude": "29.0673",
     "longitude": "80.5814",
-    "images": []
+    "images": [
+      "https://navigate.dor.gov.np/api/uploads/images/711baf7c81e0efd646e43cf22c9716fc.jpg",
+      "https://navigate.dor.gov.np/api/uploads/images/7b21016156c186c1010770807a13fe6c.jpg",
+      "https://navigate.dor.gov.np/api/uploads/images/dfd90d16cee3c8786cc8636990223dee.jpg"
+    ]
   },
   "939": {
     "id": "939",
