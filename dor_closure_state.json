@@ -745,7 +745,7 @@
     "date_created": "2026-09-27",
     "road_refno": "NH09",
     "road_name": "Bahundangi-Shantinagar-Dharan-Chatara-Ghaighat-Katari Sindhulimadi-Hetauda-Gaidakot-Rampur-Ramdi-Ridi-Balkot-Sandhikharka-Bijuwar-Sitalpati-Surkhet-Baddichaur-Sahajpur-Budar-Jogbudha-Rupal (Madan Bhandari Rajmarg)",
-    "closure_type": "PARTIAL_OPEN",
+    "closure_type": "OPEN",
     "closure_reason": "Landslide",
     "efforts_being_made": "The machine was sent at site (One way Clear)",
     "remarks": "doti",
@@ -754,10 +754,10 @@
     "link_code": "NH09-040",
     "division": "Doti",
     "repair_eta": "4 hours",
-    "actual_repair_time": "48 minutes",
+    "actual_repair_time": "1 days",
     "date_roadblock_start": "2026-09-27 08:02:00",
     "date_roadblock_end_estimated": "2026-09-27 12:18:00",
-    "date_roadblock_end": "2026-09-27 08:50:00",
+    "date_roadblock_end": "2026-09-28 11:50:00",
     "latitude": "29.0586",
     "longitude": "80.5884",
     "chainage": "0+000",
@@ -768,7 +768,9 @@
     "created_by_user_name": "Road Division Doti ",
     "last_updated_by_user_name": "Road Division Doti ",
     "images": [
-      "https://navigate.dor.gov.np/api/uploads/images/32930ed3245bc67f7c345eb07f03ac84.jpg"
+      "https://navigate.dor.gov.np/api/uploads/images/32930ed3245bc67f7c345eb07f03ac84.jpg",
+      "https://navigate.dor.gov.np/api/uploads/images/eca2fe9ba2c3ae6da4d02e5d05fca1d0.jpg",
+      "https://navigate.dor.gov.np/api/uploads/images/d42f1c3c60ff7ce2270402d98c45bfe5.jpg"
     ]
   },
   "936": {
@@ -776,7 +778,7 @@
     "date_created": "2026-09-27",
     "road_refno": "NH09",
     "road_name": "Bahundangi-Shantinagar-Dharan-Chatara-Ghaighat-Katari Sindhulimadi-Hetauda-Gaidakot-Rampur-Ramdi-Ridi-Balkot-Sandhikharka-Bijuwar-Sitalpati-Surkhet-Baddichaur-Sahajpur-Budar-Jogbudha-Rupal (Madan Bhandari Rajmarg)",
-    "closure_type": "PARTIAL_OPEN",
+    "closure_type": "OPEN",
     "closure_reason": "Landslide",
     "efforts_being_made": "The machine was sent at site (One way Clear)",
     "remarks": "doti",
