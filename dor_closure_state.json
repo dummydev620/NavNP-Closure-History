@@ -4,19 +4,19 @@
     "date_created": "2026-10-09",
     "road_refno": "NH03",
     "road_name": "Pushpalal Mid Hill Highway",
-    "closure_type": "CLOSED",
+    "closure_type": "PARTIAL_OPEN",
     "closure_reason": "Landslide",
-    "efforts_being_made": "Back hoe Loader was mobilized ",
+    "efforts_being_made": "Back hoe Loader and Loader  was mobilized  at lanslide area and one way traffic movement is open",
     "remarks": "DOTI",
     "district": "Doti",
     "location": "Sikhar Municipality-08,Ghopghat area (CH 31+000 to 36+000),Silgadhi-Syaule Section of NH-03(Mid-Hill Highway)",
     "link_code": "NH03-084",
     "division": "Doti",
     "repair_eta": "3 hours",
-    "actual_repair_time": null,
+    "actual_repair_time": "4 hours",
     "date_roadblock_start": "2026-10-09 11:27:00",
     "date_roadblock_end_estimated": "2026-10-09 14:50:00",
-    "date_roadblock_end": null,
+    "date_roadblock_end": "2026-10-09 16:10:00",
     "latitude": "29.2991",
     "longitude": "80.8017",
     "chainage": "0+000",
@@ -29,7 +29,8 @@
     "images": [
       "https://navigate.dor.gov.np/api/uploads/images/1c401e7e6b1634ae16cdc95bafdfbe7f.jpg",
       "https://navigate.dor.gov.np/api/uploads/images/2c22954b425b70cc98a2bb319d59e348.jpg",
-      "https://navigate.dor.gov.np/api/uploads/images/39154656bb9022e564584b784db82b02.jpg"
+      "https://navigate.dor.gov.np/api/uploads/images/39154656bb9022e564584b784db82b02.jpg",
+      "https://navigate.dor.gov.np/api/uploads/images/8399947719d01a10a556a2d3ebab6a78.jpg"
     ]
   },
   "965": {
